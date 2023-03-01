@@ -34,7 +34,7 @@ Name your environment 'github_data' and click 'Create'. Note: If you're prompted
 
 On your cluster page, click 'Create cluster on my own' or 'Create cluster'. 
 
-In the navbar on the left, select 'Connectors'. Search the connectors for "GitHub". _There will two results. Select the one with the GitHub logo present._ 
+In the navbar on the left, select 'Connectors'. Search the connectors for "GitHub". _There will be two results. Select the one with the GitHub logo present._ 
 
 Generate the API key and download as prompted. You'll then be prompted to enter these two values:
 
