@@ -40,8 +40,7 @@ Generate the API key and download as prompted. You'll then be prompted to enter 
 
 <img width="885" alt="values for GitHub authentication" src="https://user-images.githubusercontent.com/54046179/222235211-b7862a81-0a00-4ab9-92ed-9cb83eb275b4.png">
 
-For 'GitHub Endpoint', enter `	
-https://api.github.com`.
+For 'GitHub Endpoint', enter `https://api.github.com`.
 
 For 'GitHub Access Token', enter the classic personal token you created earlier. You do not need to preface it with 'Bearer'. 
 
